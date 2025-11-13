@@ -41,6 +41,8 @@
 * Email: xavxavx2019@gmail.com
 
 ```markdown
-![Manikino's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikino&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Manikino's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikino&show_icons=true&theme=radical&count_private=true&hide_border=true)
 ```
 
