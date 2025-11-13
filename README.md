@@ -40,9 +40,11 @@
 * GitHub: [manikino](https://github.com/manikino)
 * Email: xavxavx2019@gmail.com
 
-```markdown
-## 📊 GitHub Stats
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Manikino's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikino&show_icons=true&theme=radical)
 
-![Manikino's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikino&show_icons=true&theme=radical&count_private=true&hide_border=true)
-```
+
 
